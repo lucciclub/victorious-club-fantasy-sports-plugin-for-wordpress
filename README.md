@@ -3,7 +3,7 @@ Victorious Club - The Ultimate Fantasy Sports Plugin for Wordpress
 
 
 readme.txt
-﻿=== Plugin Name ===
+=== Plugin Name ===
 Contributors: Lucci Club Inc
 Donate link: https://Victorious.Club
 Tags: fantasy sports, fantasy football, fantasy baseball, fantasy hockey, fantasy basketball
@@ -154,6 +154,7 @@ There is a 60 money back guarantee.  100% of your money will be returned. There 
 
 Absolutely. Please contact support@victorious.club and be part of a very cool and innovative team.
 
+https://Victorious.Club
 
 
 
